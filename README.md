@@ -30,9 +30,6 @@ I'm a passionate full-stack developer specializing in building scalable, user-ce
 [![Vaughn's GitHub stats](https://github-readme-stats.vercel.app/api?username=vauugnn&show_icons=true&theme=dark)](https://github.com/vauugnn)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vauugnn&layout=compact&theme=dark)](https://github.com/vauugnn)
 
-## 🏆 GitHub Trophies
-[![](https://github-profile-trophy.vercel.app/?username=vauugnn&theme=radical&no-frame=true&no-bg=false&margin-w=4)](https://github.com/vauugnn)
-
 ---
 
 **Connect with me:**
