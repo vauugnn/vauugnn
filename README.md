@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vauugnn&bg_color=0d1117&color=58a6ff&line=58a6ff&point=1f6feb&area=true&area_color=1f6feb&hide_border=true&radius=6" width="100%" />
+  <img src="https://raw.githubusercontent.com/vauugnn/vauugnn/output/github-snake-dark.svg" width="100%" />
 </p>
 
 <p align="center">
