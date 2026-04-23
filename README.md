@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Vaughn&fontSize=80&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20%7C%20Mobile%20%7C%20UI%2FUX&descAlignY=60&descColor=8b949e" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vauugnn&bg_color=0d1117&color=58a6ff&line=58a6ff&point=1f6feb&area=true&area_color=1f6feb&hide_border=true&radius=6" width="100%" />
 </p>
 
 <p align="center">
