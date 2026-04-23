@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vauugnn/vauugnn/output/github-snake-dark.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/vauugnn/vauugnn/output/contrib-scroll.svg" width="100%" />
 </p>
 
 <p align="center">
