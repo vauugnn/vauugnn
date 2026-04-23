@@ -28,15 +28,27 @@
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">🚌 Tuyok</h3>
+      <h3 align="center">🌐 TRmnl</h3>
       <p align="center">
-        <a href="https://github.com/vauugnn/tuyok-webapp-prototype">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=vauugnn&repo=tuyok-webapp-prototype&theme=github_dark&hide_border=true&bg_color=0d1117" />
+        <a href="https://github.com/vauugnn/TRmnl">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=vauugnn&repo=TRmnl&theme=github_dark&hide_border=true&bg_color=0d1117" />
         </a>
         <br/>
-        <sub>Commuter hub for Davao City with jeepney route API</sub>
+        <sub>Terminal translator — English to any language via DeepL. Ships as npm CLI and Claude Code plugin.</sub>
       </p>
     </td>
+    <td width="50%">
+      <h3 align="center">🔍 ProblemClaw</h3>
+      <p align="center">
+        <a href="https://github.com/vauugnn/problemclaw">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=vauugnn&repo=problemclaw&theme=github_dark&hide_border=true&bg_color=0d1117" />
+        </a>
+        <br/>
+        <sub>AI codebase scanner using Gemini — finds bugs, security issues, and auto-files GitHub issues.</sub>
+      </p>
+    </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3 align="center">🗣️ VoiceCraft</h3>
       <p align="center">
@@ -44,11 +56,9 @@
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=vauugnn&repo=voicecraft&theme=github_dark&hide_border=true&bg_color=0d1117" />
         </a>
         <br/>
-        <sub>AAC tool aiding communication for differently-abled people</sub>
+        <sub>Mobile AAC app aiding communication for differently-abled people.</sub>
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
       <h3 align="center">💧 SmartFlow</h3>
       <p align="center">
@@ -56,17 +66,7 @@
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=vauugnn&repo=smartflow&theme=github_dark&hide_border=true&bg_color=0d1117" />
         </a>
         <br/>
-        <sub>IoT sprinkler control — manual + sensor-driven automation</sub>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">💸 Frugal Friend</h3>
-      <p align="center">
-        <a href="https://github.com/vauugnn/frugal-friend">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=vauugnn&repo=frugal-friend&theme=github_dark&hide_border=true&bg_color=0d1117" />
-        </a>
-        <br/>
-        <sub>Budget tracker app</sub>
+        <sub>Flutter IoT sprinkler controller — manual and sensor-driven automation.</sub>
       </p>
     </td>
   </tr>
