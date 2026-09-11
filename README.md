@@ -28,44 +28,28 @@
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">🌐 TRmnl</h3>
+      <h3 align="center"><a href="https://github.com/vauugnn/TRmnl">🌐 TRmnl</a></h3>
       <p align="center">
-        <a href="https://github.com/vauugnn/TRmnl">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=vauugnn&repo=TRmnl&theme=github_dark&hide_border=true&bg_color=0d1117" />
-        </a>
-        <br/>
         <sub>Terminal translator — English to any language via DeepL. Ships as npm CLI and Claude Code plugin.</sub>
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">🔍 ProblemClaw</h3>
+      <h3 align="center"><a href="https://github.com/vauugnn/problemclaw">🔍 ProblemClaw</a></h3>
       <p align="center">
-        <a href="https://github.com/vauugnn/problemclaw">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=vauugnn&repo=problemclaw&theme=github_dark&hide_border=true&bg_color=0d1117" />
-        </a>
-        <br/>
         <sub>AI codebase scanner using Gemini — finds bugs, security issues, and auto-files GitHub issues.</sub>
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">🗣️ VoiceCraft</h3>
+      <h3 align="center"><a href="https://github.com/vauugnn/voicecraft">🗣️ VoiceCraft</a></h3>
       <p align="center">
-        <a href="https://github.com/vauugnn/voicecraft">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=vauugnn&repo=voicecraft&theme=github_dark&hide_border=true&bg_color=0d1117" />
-        </a>
-        <br/>
         <sub>Mobile AAC app aiding communication for differently-abled people.</sub>
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">💧 SmartFlow</h3>
+      <h3 align="center"><a href="https://github.com/vauugnn/smartflow">💧 SmartFlow</a></h3>
       <p align="center">
-        <a href="https://github.com/vauugnn/smartflow">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=vauugnn&repo=smartflow&theme=github_dark&hide_border=true&bg_color=0d1117" />
-        </a>
-        <br/>
         <sub>Flutter IoT sprinkler controller — manual and sensor-driven automation.</sub>
       </p>
     </td>
@@ -116,16 +100,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vauugnn&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vauugnn&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&langs_count=8" height="165" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=vauugnn&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vauugnn&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" />
 </p>
 
 ---
